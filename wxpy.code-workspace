@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "wxpy",
+			"path": "."
+		},
+		{
+			"name": "external",
+			"path": "../../../media/external"
+		}
+	]
+}
